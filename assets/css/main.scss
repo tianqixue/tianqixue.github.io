@@ -41,3 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Hide dark/light mode toggle button */
+.theme-toggle,
+.dark-mode-toggle,
+button[aria-label*="theme"],
+button[aria-label*="dark"],
+button[aria-label*="light"] {
+  display: none !important;
+}
