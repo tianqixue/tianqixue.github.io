@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a PhD candidate in Quantitative Marketing at the Chinese University of Hong Kong.
+Welcome! I am a PhD candidate in Quantitative Marketing at the Chinese University of Hong Kong.
 
 My research focuses on empirical marketing. I prefer to select the most appropriate methodology to address each research question, including causal inference, structural modeling, Bayesian statistics, and machine learning.
 
