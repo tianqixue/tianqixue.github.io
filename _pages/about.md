@@ -13,4 +13,4 @@ My research focuses on empirical marketing. I prefer to select the most appropri
 
 I collaborate with firms across high-tech, e-commerce, retail, and gaming sectors, conducting empirical research using proprietary data. My work informs managerial decisions on demand estimation, pricing, promotions, and marketing interventions.
 
-[Curriculum Vitae](/cv/Xue_CV_Mar2026.pdf)
+[Curriculum Vitae](/cv/Xue_CV_202603.pdf)
