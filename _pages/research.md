@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-1. **"Deceptive Pricing and Price Credibility: The Effect of Disclosing Online Prices"**  
+1. **["Deceptive Pricing and Price Credibility: The Effect of Disclosing Online Prices"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6422940)**  
    with Wei Fan and Greg Allenby
 
 2. **"The Monetization of Hedonic and Utilitarian Features in Durable Goods"**  
